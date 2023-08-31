@@ -4,7 +4,7 @@ in this room i learn about how to do reconnaissance using DNS here i used some o
 - whois
 - DNSDumpster
 - shodan.io
-
+_____________________________________________________________________________________________
   commands that are useful
 - Lookup WHOIS record:   whois tryhackme.com
 - Lookup DNS A records: 	  nslookup -type=A tryhackme.com
