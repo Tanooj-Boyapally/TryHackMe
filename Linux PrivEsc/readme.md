@@ -1,0 +1,13 @@
+in this room i learn about linux privilege escalation
+- using C programs for mysql to get root shell
+- /etc/shadow files
+- /etc/passwd files
+- using of john the ripper
+- list the privileges for the invoking user [sudo -l]
+- cronjobs
+- msfvenom
+- special permissions [using find]
+- strach
+- strings
+- .ssh file (rsa files)
+- using of perl
